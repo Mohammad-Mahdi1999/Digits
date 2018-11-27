@@ -1,2 +1,0 @@
-1.Open "Debug" folder
-2.Run "Digits"
